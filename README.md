@@ -1,1 +1,2 @@
 # FP-Multiplier
+This repository contains the System Verilog files and the report for the "Digital HW Systems at Low Logic Levels II" course offered in the 8th semester of the Electrical and Computer Engineering Department at Aristotle University of Thessaloniki. It contains an implementation of a Floating Point Multiplier, prioritizing precision, and its functionality is verified through System Verilog Assertions (SVA).
